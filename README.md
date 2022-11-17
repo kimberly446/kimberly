@@ -13,3 +13,7 @@ localizado no bairro cristo rei em curitiba
 ![image](https://user-images.githubusercontent.com/116300569/202544763-7eac8d5e-39ab-4809-9c5c-bee9ffc33f90.png)
 
 @art-pé041
+
+![image](https://user-images.githubusercontent.com/116300569/202545960-7217113d-b14b-47d5-8cd2-0abbc7dd4ec4.png)
+
+ formas de pagamento:cartão(debito,credito),pix e dinheiro
